@@ -13,5 +13,10 @@ IN THE PROBLEM STATEMENT IT WAS MENTIONED NO FILES OTHER THAN COLAB NOTEBOOK , A
 
 to use colab notebook
 1. sign in
-2. upload all the 3 csv files into folder ( sample data ) of colab
-3. run the cells 
+2. run all the cells ( gdown library have been used , it will download csv files )
+3. if some issue is there , download the file from github , upload it to colab and run.
+
+
+
+FOR RESULTS 
+DIRECTLY SEE THE UPLOADED .IPYNB FILE 
